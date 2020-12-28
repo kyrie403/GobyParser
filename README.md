@@ -1,0 +1,2 @@
+# GobyParser
+解析Goby扫描结果转换为JSON并录入到MYSQL数据库的工具
